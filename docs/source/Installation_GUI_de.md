@@ -20,11 +20,11 @@ At this point, install `pip`:
 ```
 python -m pip install -U pip
 ```
-and install the packages listed in `requirements.txt` (that you can find in the repository)
+and install the packages listed in `gui_requirements.txt` (that you can find in the repository)
 ```
-python -m pip install -r requirements.txt
+python -m pip install -r gui_requirements.txt
 ```
-The file `requirements.txt` holds the list of packages with the best version. In case you get a `No matching` error for a certain package, just remove `==xx.yy.zz` after the package name in `requirements.txt` and try again. This may give compatibility issue, so it's always best to use `requirements.txt` as is. 
+The file `gui_requirements.txt` holds the list of packages with the best version. In case you get a `No matching` error for a certain package, just remove `==xx.yy.zz` after the package name in `gui_requirements.txt` and try again. This may give compatibility issue, so it's always best to use `gui_requirements.txt` as is. 
 
 With this, all the prerequisites are successfully included in the `<environment name>` environment.
 
