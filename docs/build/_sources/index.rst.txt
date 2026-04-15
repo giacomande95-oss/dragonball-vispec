@@ -14,7 +14,7 @@ Dragonball Documentation
    :maxdepth: 1 
    :caption: Contents:
 
-   README.md
+   readme.md 
    README_FlyingNimbus.md
    Readme_BULMA.md
    Readme_VEGETA.md
@@ -23,6 +23,7 @@ Dragonball Documentation
    ORCA_tutorial.md
    QChem_tutorial.md
    Download.md
+   Acknowledgements.md
 
 Dragonball Files
 ==========================================
