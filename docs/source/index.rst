@@ -32,4 +32,4 @@ You find the repository `here <https://github.com/giacomande95-oss/dragonball-vi
 
 You find the archived manuscript `here <https://chemrxiv.org/doi/full/10.26434/chemrxiv.15002708/v1>`_
 
-The Final paper is WIP
+The final paper is WIP
