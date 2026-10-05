@@ -35,7 +35,7 @@ and two compatible codes:
 - [Frieza](https://github.com/GiacomoBotti/Heller_dynamics)
 - [Runner](https://github.com/GiacomoBotti/BOMD_RUNNER)
 
-You can find more information on Project ChiChi in the [archive](link-to-archive).
+You can find more information on Project ChiChi in the [archive](https://doi.org/10.26434/chemrxiv.15009730/v1).
 
 Have fun!
 
